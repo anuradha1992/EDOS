@@ -1,4 +1,4 @@
-# EmoBERT+
+# Dialogue Emotion Classifier
 
 ### Fine-grained dialog emotion classifier for movie dialogs.
 
@@ -8,7 +8,7 @@ The pretrained weights necessary to initiate the model prior to training can be 
 
 ### Datasets
 
-All the datasets necessary to train and test the classifier are included in the folder ../../Data/Training data for EmoBERT+ included in the Data Appendix
+All the datasets necessary to train and test the classifier are included in the folder "../../Data/Training data for the dialogue emotion classifier"
 
 It contains the following datasets:
 
