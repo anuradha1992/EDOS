@@ -1,7 +1,7 @@
 # EDOS
 A Large-Scale Dataset for Empathetic Response Generation
 
-We include here all the data and the python scripts necessary to reproduce the results in the work "A Large-Scale Dataset for Empathetic Response Generation", which is accepted conditionally to the EMNLP 2022 conference. 
+We include here all the data and the python scripts necessary to reproduce the results in the work "A Large-Scale Dataset for Empathetic Response Generation", which is accepted conditionally to EMNLP 2021. 
 
 ### Authors
 
