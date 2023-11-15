@@ -1,6 +1,8 @@
 # EDOS
 A Large-Scale Dataset for Empathetic Response Generation
 
+[![DOI](https://zenodo.org/badge/402042204.svg)](https://zenodo.org/doi/10.5281/zenodo.10134972)
+
 We include here all the data and the python scripts necessary to reproduce the results in the work "A Large-Scale Dataset for Empathetic Response Generation", which is accepted conditionally to EMNLP 2021. 
 
 ### Authors
